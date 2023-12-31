@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: https://86h63ogz.v1d.szbdyd.com:46081/download.meizu.com/Firmware/Flyme/meizu18X/10.23.5.6/cn_daily/20230506101948/f10cfbfc/update.zip?xyip=180.212.64.206&xyct=33&xy_nosvr=true&xy_usource=download-xys.meizu.com&xy_rid=zY0W4Gu85BSCK7&xy_oid=43158&xy_nc=2Nvfb1==
+        default: https://bigota.d.miui.com/V12.5.6.0.RGACNXM/miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'flyme10.zip'
+        default: 'miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'flyme'
+        default: 'miui'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
