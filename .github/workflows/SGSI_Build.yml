@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: https://bigota.d.miui.com/V12.5.6.0.RGACNXM/miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip
+        default: https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A011/ColorOS%2013.0.0%20A.11/e2a04b171a9041b1ba2cabcb2771317b.zip
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip'
+        default: 'e2a04b171a9041b1ba2cabcb2771317b.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'color'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
