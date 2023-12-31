@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A011/ColorOS%2013.0.0%20A.11/e2a04b171a9041b1ba2cabcb2771317b.zip
+        default: https://112-101-10-69.pd1.123pan.cn:30443/download-cdn.123pan.cn/123-990/20342502/1817010570-0/203425025328a4f50c2ec4bf8499f3de/c-m18?v=5&t=1704105851&s=1704105851cb3c1fa0a838f0785418101f75f6ffb7&r=XGBU7V&bzc=2&bzs=313831373031303537303a35323939303233333a323938303036333034363a31383136333537393139&filename=polaris_images_V12.5.1.0.QDGCNXM_20210707.0000.00_10.0_cn.tgz&x-mf-biz-cid=e571024b-b249-44c0-8f3c-25f130c9e556-6eaa77&auto_redirect=0&ndcp=1&cache_type=1&xmfcid=168c842e-470b-47e3-938a-40e638620b86-0-cd8a62355
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'e2a04b171a9041b1ba2cabcb2771317b.zip'
+        default: 'polaris_images_V12.5.1.0.QDGCNXM_20210707.0000.00_10.0_cn.tgz'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'color'
+        default: 'miui'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
